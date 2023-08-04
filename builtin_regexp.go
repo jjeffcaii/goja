@@ -2,7 +2,7 @@ package goja
 
 import (
 	"fmt"
-	"github.com/dop251/goja/parser"
+	"github.com/jjeffcaii/goja/parser"
 	"regexp"
 	"strings"
 	"unicode/utf16"

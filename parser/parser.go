@@ -38,10 +38,10 @@ import (
 	"io"
 	"os"
 
-	"github.com/dop251/goja/ast"
-	"github.com/dop251/goja/file"
-	"github.com/dop251/goja/token"
-	"github.com/dop251/goja/unistring"
+	"github.com/jjeffcaii/goja/ast"
+	"github.com/jjeffcaii/goja/file"
+	"github.com/jjeffcaii/goja/token"
+	"github.com/jjeffcaii/goja/unistring"
 )
 
 // A Mode value is a set of flags (or 0). They control optional parser functionality.

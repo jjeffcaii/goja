@@ -1,9 +1,9 @@
 package goja
 
 import (
-	"github.com/dop251/goja/file"
-	"github.com/dop251/goja/parser"
-	"github.com/dop251/goja/unistring"
+	"github.com/jjeffcaii/goja/file"
+	"github.com/jjeffcaii/goja/parser"
+	"github.com/jjeffcaii/goja/unistring"
 	"testing"
 )
 

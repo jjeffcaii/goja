@@ -16,10 +16,10 @@ import (
 
 	"golang.org/x/text/collate"
 
-	js_ast "github.com/dop251/goja/ast"
-	"github.com/dop251/goja/file"
-	"github.com/dop251/goja/parser"
-	"github.com/dop251/goja/unistring"
+	js_ast "github.com/jjeffcaii/goja/ast"
+	"github.com/jjeffcaii/goja/file"
+	"github.com/jjeffcaii/goja/parser"
+	"github.com/jjeffcaii/goja/unistring"
 )
 
 const (
